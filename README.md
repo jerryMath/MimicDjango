@@ -1,2 +1,2 @@
 # MimicDjango
-Native and young version of Django by socket and jinja.
+Native and young version of Django by Socket, Jinja and PyMySQL.
